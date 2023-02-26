@@ -2,10 +2,6 @@
 
 <p float="left">
  <img src="https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png" width="143" height="318" />
-<img src="https://u.cubeupload.com/gfavera/9bbWhatsAppVideo2021053.gif" width="143" height="318" />
-<img src="https://u.cubeupload.com/gfavera/975WhatsAppVideo2021053.gif" width="143" height="318" />
-<img src="https://u.cubeupload.com/gfavera/WhatsAppVideo2021053.gif" width="143" height="318" />
-<img src="https://u.cubeupload.com/gfavera/dd.gif" width="143" height="318" />
 </p>
 
 
