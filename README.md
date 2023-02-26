@@ -1,7 +1,7 @@
 # Bank App
 
 <p float="left">
- <img "https://i.imgur.com/uSsAUc7.png" width="143" height="318" />
+ <img "https://i.imgur.com/uSsAUc7.png" width="204" height="433" />
 </p>
 
 
