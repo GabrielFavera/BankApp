@@ -1,7 +1,11 @@
 # Bank App
 
 <p float="left">
- <img "https://i.imgur.com/uSsAUc7.png" width="204" height="433" />
+ <img src="https://i.imgur.com/uSsAUc7.png" width="143" height="318" />
+<img src="https://u.cubeupload.com/gfavera/9bbWhatsAppVideo2021053.gif" width="143" height="318" />
+<img src="https://u.cubeupload.com/gfavera/975WhatsAppVideo2021053.gif" width="143" height="318" />
+<img src="https://u.cubeupload.com/gfavera/WhatsAppVideo2021053.gif" width="143" height="318" />
+<img src="https://u.cubeupload.com/gfavera/dd.gif" width="143" height="318" />
 </p>
 
 
